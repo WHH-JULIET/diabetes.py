@@ -61,14 +61,6 @@ This project applies logistic regression to predict whether a person has diabete
 
 ---
 
-## 📉 Visualization
-
-The script plots the **Sigmoid Function** used by logistic regression to map input values between 0 and 1.
-
-![Sigmoid Function](assets/sigmoid_plot.png) <!-- Replace with actual image path if added -->
-
----
-
 ## ▶️ How to Run
 
 ### 1. Clone the repository
